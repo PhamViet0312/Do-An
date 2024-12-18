@@ -1,0 +1,901 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Do-An.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Do-An.a3bd9pec8u.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\css\\ajax-loader.html",
+      "PackagePath": "staticwebassets\\css\\ajax-loader.html"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\css\\fonts\\slick-2.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick-2.html"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\css\\fonts\\slick-3.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick-3.html"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\css\\fonts\\slick-4.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick-4.html"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\css\\fonts\\slick.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick.html"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\css\\fonts\\slickd41d.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\slickd41d.html"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\fonts\\fontawesome-webfont93e3.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont93e3.eot"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\fonts\\fontawesome-webfont93e3.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont93e3.svg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\fonts\\fontawesome-webfont93e3.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont93e3.ttf"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\fonts\\fontawesome-webfont93e3.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont93e3.woff"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\fonts\\fontawesome-webfont93e3.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont93e3.woff2"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\blank.html",
+      "PackagePath": "staticwebassets\\images\\blank.html"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\fancybox_loading.gif",
+      "PackagePath": "staticwebassets\\images\\fancybox_loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\fancybox_loading@2x.gif",
+      "PackagePath": "staticwebassets\\images\\fancybox_loading@2x.gif"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\fancybox_overlay.png",
+      "PackagePath": "staticwebassets\\images\\fancybox_overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\fancybox_sprite.png",
+      "PackagePath": "staticwebassets\\images\\fancybox_sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\fancybox_sprite@2x.png",
+      "PackagePath": "staticwebassets\\images\\fancybox_sprite@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\images\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\nivo\\close.png",
+      "PackagePath": "staticwebassets\\images\\nivo\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\nivo\\close@2x.png",
+      "PackagePath": "staticwebassets\\images\\nivo\\close@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\nivo\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\nivo\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\nivo\\loading@2x.gif",
+      "PackagePath": "staticwebassets\\images\\nivo\\loading@2x.gif"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\nivo\\next.png",
+      "PackagePath": "staticwebassets\\images\\nivo\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\nivo\\next@2x.png",
+      "PackagePath": "staticwebassets\\images\\nivo\\next@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\nivo\\prev.png",
+      "PackagePath": "staticwebassets\\images\\nivo\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\nivo\\prev@2x.png",
+      "PackagePath": "staticwebassets\\images\\nivo\\prev@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ads1.png",
+      "PackagePath": "staticwebassets\\images\\uploads\\ads1.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ads2.png",
+      "PackagePath": "staticwebassets\\images\\uploads\\ads2.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\author.png",
+      "PackagePath": "staticwebassets\\images\\uploads\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\author2.png",
+      "PackagePath": "staticwebassets\\images\\uploads\\author2.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\author3.png",
+      "PackagePath": "staticwebassets\\images\\uploads\\author3.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\author4.png",
+      "PackagePath": "staticwebassets\\images\\uploads\\author4.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ava1.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ava1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ava2.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ava2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ava3.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ava3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ava4.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ava4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\blog-detail.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\blog-detail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\blog-detail2.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\blog-detail2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\blog-it1.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\blog-it1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\blog-it2.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\blog-it2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\blog26.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\blog26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\blog27.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\blog27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\blog29.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\blog29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\bloglist-it1.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\bloglist-it1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\bloglist-it2.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\bloglist-it2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\bloglist-it3.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\bloglist-it3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\bloglist-it4.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\bloglist-it4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\bloglist-it5.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\bloglist-it5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\bloglist-it6.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\bloglist-it6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\blogv21.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\blogv21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\blogv22.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\blogv22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\blogv23.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\blogv23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\blogv24.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\blogv24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\blogv25.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\blogv25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\blogv29.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\blogv29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\cast1.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\cast1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\cast2.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\cast2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\cast3.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\cast3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\cast4.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\cast4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\cast5.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\cast5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\cast6.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\cast6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\cast7.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\cast7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\cast9.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\cast9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceb1.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceb1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceb2.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceb2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceb21.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceb21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceb22.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceb22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceb23.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceb23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceb24.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceb24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceb25.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceb25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceb26.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceb26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceb27.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceb27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceb28.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceb28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceb29.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceb29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceb3.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceb4.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceb4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceb5.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceb5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceb6.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceb6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceb7.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceb7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceb8.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceb8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceb9.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceb9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceblist1.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceblist1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceblist2.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceblist2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceblist3.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceblist3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceblist4.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceblist4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceblist5.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceblist5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceblist6.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceblist6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceblist7.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceblist7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ceblist8.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ceblist8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\cebsingle2.png",
+      "PackagePath": "staticwebassets\\images\\uploads\\cebsingle2.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\celeb-hero-single.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\celeb-hero-single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\cm-img.png",
+      "PackagePath": "staticwebassets\\images\\uploads\\cm-img.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\drop-icon.png",
+      "PackagePath": "staticwebassets\\images\\uploads\\drop-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\err-img.png",
+      "PackagePath": "staticwebassets\\images\\uploads\\err-img.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\error-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\error-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\film1.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\film1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\film2.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\film2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\film3.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\film3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\film4.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\film4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\film5.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\film5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\film6.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\film6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\film7.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\film7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\film8.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\film8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\ft-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\ft-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image1.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image10.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image101.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image101.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image11.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image111.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image111.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image12.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image121.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image121.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image13.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image131.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image131.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image14.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image141.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image141.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image15.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image151.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image151.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image16.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image161.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image161.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image17.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image171.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image171.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image18.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image181.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image181.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image19.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image191.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image191.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image2.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image20.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image201.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image201.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image21.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image211.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image211.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image3.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image31.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image4.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image41.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image5.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image51.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image6.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image61.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image61.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image7.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image71.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image71.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image8.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image81.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image81.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image9.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\image91.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\image91.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\landing-dark-version.png",
+      "PackagePath": "staticwebassets\\images\\uploads\\landing-dark-version.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\landing-light-version.png",
+      "PackagePath": "staticwebassets\\images\\uploads\\landing-light-version.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\movie-single.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\movie-single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-it1.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-it1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-it10.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-it10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-it11.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-it11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-it12.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-it12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-it2.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-it2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-it3.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-it3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-it4.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-it4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-it5.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-it5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-it6.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-it6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-it7.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-it7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-it8.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-it8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-it9.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-it9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-item10.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-item10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-item11.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-item11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-item12.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-item12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-item4.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-item4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-item5.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-item5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-item6.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-item6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-item7.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-item7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-item8.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-item8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv-item9.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv-item9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv1.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv2.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv3.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv4.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\mv5.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\mv5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\play-vd.png",
+      "PackagePath": "staticwebassets\\images\\uploads\\play-vd.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\poster1.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\poster1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\search-bg.png",
+      "PackagePath": "staticwebassets\\images\\uploads\\search-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\search-bgsb.png",
+      "PackagePath": "staticwebassets\\images\\uploads\\search-bgsb.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\season.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\season.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\series-img.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\series-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\slider-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\slider-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\slider-bg2.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\slider-bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\slider1.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\slider2.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\slider3.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\slider3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\slider4.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\slider4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\sr-single.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\sr-single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\topsearch.png",
+      "PackagePath": "staticwebassets\\images\\uploads\\topsearch.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\trailer2.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\trailer2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\trailer3.png",
+      "PackagePath": "staticwebassets\\images\\uploads\\trailer3.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\trailer4.png",
+      "PackagePath": "staticwebassets\\images\\uploads\\trailer4.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\trailer5.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\trailer5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\trailer6.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\trailer6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\trailer7.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\trailer7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\user-hero-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\user-hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\user-img.png",
+      "PackagePath": "staticwebassets\\images\\uploads\\user-img.png"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\userava1.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\userava1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\userava2.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\userava2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\userava3.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\userava3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\userava4.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\userava4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\userava5.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\userava5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\vd-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\vd-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\vd-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\vd-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\vd-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\vd-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\images\\uploads\\vd-item4.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\vd-item4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\wwwroot\\js\\plugins2.js",
+      "PackagePath": "staticwebassets\\js\\plugins2.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Do-An.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Do-An.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Do-An.props",
+      "PackagePath": "build\\Do-An.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Do-An.props",
+      "PackagePath": "buildMultiTargeting\\Do-An.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Do-An.props",
+      "PackagePath": "buildTransitive\\Do-An.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
