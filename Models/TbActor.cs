@@ -18,6 +18,4 @@ public partial class TbActor
     public string? ProfileImage { get; set; }
 
     public bool? IsActive { get; set; }
-
-    public virtual ICollection<TbMovie> TbMovies { get; set; } = new List<TbMovie>();
 }

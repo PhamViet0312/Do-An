@@ -7,8 +7,6 @@ public partial class TbMovie
 {
     public int MovieId { get; set; }
 
-    public int? ActorId { get; set; }
-
     public int? CategoryMovieId { get; set; }
 
     public string? Title { get; set; }
@@ -34,8 +32,6 @@ public partial class TbMovie
     public string? TrailerUrl { get; set; }
 
     public bool IsActive { get; set; }
-
-    public virtual TbActor? Actor { get; set; }
 
     public virtual TbCategoryMovie? CategoryMovie { get; set; }
 

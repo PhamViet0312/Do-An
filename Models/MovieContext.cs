@@ -37,7 +37,6 @@ public partial class MovieContext : DbContext
 
     public virtual DbSet<TbRole> TbRoles { get; set; }
 
-
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<TbAccount>(entity =>
@@ -118,10 +117,6 @@ public partial class MovieContext : DbContext
             entity.Property(e => e.ReleaseDate).HasColumnType("datetime");
             entity.Property(e => e.TrailerUrl).HasColumnName("TrailerURL");
 
-            entity.HasOne(d => d.Actor).WithMany(p => p.TbMovies)
-                .HasForeignKey(d => d.ActorId)
-                .HasConstraintName("FK_tb_Movie_tb_Actor");
-
             entity.HasOne(d => d.CategoryMovie).WithMany(p => p.TbMovies)
                 .HasForeignKey(d => d.CategoryMovieId)
                 .HasConstraintName("FK_tb_Movie_tb_CategoryMovie");
@@ -133,9 +128,7 @@ public partial class MovieContext : DbContext
 
             entity.ToTable("tb_MovieDetail");
 
-            entity.Property(e => e.MovieDetailId)
-                .ValueGeneratedNever()
-                .HasColumnName("MovieDetail_Id");
+            entity.Property(e => e.MovieDetailId).HasColumnName("MovieDetail_Id");
             entity.Property(e => e.Mmparating).HasColumnName("MMPARating");
 
             entity.HasOne(d => d.Movie).WithMany(p => p.TbMovieDetails)
