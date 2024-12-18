@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\Do-An.csproj": {}
+    "D:\\Nhóm 16\\Do-An\\Do-An.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\Do-An.csproj": {
+    "D:\\Nhóm 16\\Do-An\\Do-An.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\Do-An.csproj",
+        "projectUniqueName": "D:\\Nhóm 16\\Do-An\\Do-An.csproj",
         "projectName": "Do-An",
-        "projectPath": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\Do-An.csproj",
-        "packagesPath": "C:\\Users\\vietp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vietp\\OneDrive\\Documents\\CNTT\\PTUDW\\Do-An\\Do-An\\obj\\",
+        "projectPath": "D:\\Nhóm 16\\Do-An\\Do-An.csproj",
+        "packagesPath": "C:\\Users\\PHAN VAN TIEN\\.nuget\\packages\\",
+        "outputPath": "D:\\Nhóm 16\\Do-An\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vietp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PHAN VAN TIEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -49,6 +49,38 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "SlugGenerator": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "elFinder.NetCore": {
+              "target": "Package",
+              "version": "[1.4.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
