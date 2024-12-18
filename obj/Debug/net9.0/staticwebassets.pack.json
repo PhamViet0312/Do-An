@@ -21633,6 +21633,218 @@
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\avatar\\ava1.jpg",
+      "PackagePath": "staticwebassets\\files\\avatar\\ava1.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\avatar\\ava2.jpg",
+      "PackagePath": "staticwebassets\\files\\avatar\\ava2.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\avatar\\ava3.jpg",
+      "PackagePath": "staticwebassets\\files\\avatar\\ava3.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\avatar\\ava4.jpg",
+      "PackagePath": "staticwebassets\\files\\avatar\\ava4.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\blog\\blog-detail.jpg",
+      "PackagePath": "staticwebassets\\files\\blog\\blog-detail.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\blog\\blog-detail2.jpg",
+      "PackagePath": "staticwebassets\\files\\blog\\blog-detail2.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\blog\\blog-it1.jpg",
+      "PackagePath": "staticwebassets\\files\\blog\\blog-it1.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\blog\\blog-it2.jpg",
+      "PackagePath": "staticwebassets\\files\\blog\\blog-it2.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\blog\\blog26.jpg",
+      "PackagePath": "staticwebassets\\files\\blog\\blog26.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\blog\\blog27.jpg",
+      "PackagePath": "staticwebassets\\files\\blog\\blog27.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\blog\\blog29.jpg",
+      "PackagePath": "staticwebassets\\files\\blog\\blog29.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\blog\\bloglist-it1.jpg",
+      "PackagePath": "staticwebassets\\files\\blog\\bloglist-it1.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\blog\\bloglist-it2.jpg",
+      "PackagePath": "staticwebassets\\files\\blog\\bloglist-it2.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\blog\\bloglist-it3.jpg",
+      "PackagePath": "staticwebassets\\files\\blog\\bloglist-it3.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\blog\\bloglist-it4.jpg",
+      "PackagePath": "staticwebassets\\files\\blog\\bloglist-it4.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\blog\\bloglist-it5.jpg",
+      "PackagePath": "staticwebassets\\files\\blog\\bloglist-it5.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\blog\\bloglist-it6.jpg",
+      "PackagePath": "staticwebassets\\files\\blog\\bloglist-it6.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\blog\\blogv21.jpg",
+      "PackagePath": "staticwebassets\\files\\blog\\blogv21.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\blog\\blogv22.jpg",
+      "PackagePath": "staticwebassets\\files\\blog\\blogv22.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\blog\\blogv23.jpg",
+      "PackagePath": "staticwebassets\\files\\blog\\blogv23.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\blog\\blogv24.jpg",
+      "PackagePath": "staticwebassets\\files\\blog\\blogv24.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\blog\\blogv25.jpg",
+      "PackagePath": "staticwebassets\\files\\blog\\blogv25.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\blog\\blogv29.jpg",
+      "PackagePath": "staticwebassets\\files\\blog\\blogv29.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-it1.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-it1.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-it10.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-it10.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-it11.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-it11.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-it12.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-it12.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-it2.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-it2.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-it3.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-it3.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-it4.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-it4.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-it5.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-it5.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-it6.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-it6.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-it7.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-it7.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-it8.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-it8.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-it9.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-it9.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-item1.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-item1.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-item10.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-item10.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-item11.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-item11.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-item12.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-item12.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-item2.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-item2.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-item3.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-item3.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-item4.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-item4.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-item5.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-item5.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-item6.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-item6.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-item7.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-item7.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-item8.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-item8.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\item\\mv-item9.jpg",
+      "PackagePath": "staticwebassets\\files\\item\\mv-item9.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\slide\\slider-bg.jpg",
+      "PackagePath": "staticwebassets\\files\\slide\\slider-bg.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\slide\\slider-bg2.jpg",
+      "PackagePath": "staticwebassets\\files\\slide\\slider-bg2.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\slide\\slider1.jpg",
+      "PackagePath": "staticwebassets\\files\\slide\\slider1.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\slide\\slider2.jpg",
+      "PackagePath": "staticwebassets\\files\\slide\\slider2.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\slide\\slider3.jpg",
+      "PackagePath": "staticwebassets\\files\\slide\\slider3.jpg"
+    },
+    {
+      "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\files\\slide\\slider4.jpg",
+      "PackagePath": "staticwebassets\\files\\slide\\slider4.jpg"
+    },
+    {
       "Id": "D:\\Nhóm 16\\Do-An\\wwwroot\\fonts\\fontawesome-webfont93e3.eot",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont93e3.eot"
     },
