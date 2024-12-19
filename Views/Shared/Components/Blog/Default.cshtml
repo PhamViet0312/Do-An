@@ -1,0 +1,16 @@
+﻿@model IEnumerable<Do_An.Models.TbBlog>
+
+@foreach (var item in Model)
+{
+	string sUrl = $"/blog/{item.Alias}-{item.BlogId}.html";
+<div class="blog-item-style-1 blog-item-style-3">
+	<img src="~/files/blog/@item.Image" alt="">
+	<div class="blog-it-infor">
+		<h3><a href="@sUrl">@item.Title</a></h3>
+		<span class="time">@item.CreatedDate?.ToString("MM/dd/yyyy")</span>
+		<p>@item.Description</p>
+	</div>
+	
+</div>
+
+}

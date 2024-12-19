@@ -44,4 +44,11 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
 
+// người dùng
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Blog}/{action=Index}/{id?}")
+    .WithStaticAssets();
+
+
 app.Run();
