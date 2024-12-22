@@ -3,23 +3,35 @@
   "WorkspaceRootPath": "D:\\Nh\u00F3m 16\\Do-An\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\views\\blog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:views\\blog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\views\\shared\\components\\actor\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:views\\shared\\components\\actor\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\views\\shared\\components\\blog\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:views\\shared\\components\\blog\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\views\\shared\\components\\actor\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:views\\shared\\components\\actor\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\views\\actor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:views\\actor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\viewcomponents\\actorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:viewcomponents\\actorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\views\\shared\\_layoutactor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:views\\shared\\_layoutactor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Download\\Film-Review-Movie-Database\\Film-Review-Movie-Database\\blogdetail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,19 +65,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Views\\Shared\\Components\\Actor\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Actor\\List.cshtml",
+              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Views\\Shared\\Components\\Actor\\List.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Actor\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T05:12:36.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActorViewComponent.cs",
+              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\ViewComponents\\ActorViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\ActorViewComponent.cs",
+              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\ViewComponents\\ActorViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\ActorViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:29:28.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Default.cshtml",
-              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Views\\Shared\\Components\\Blog\\Default.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Blog\\Default.cshtml",
-              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Views\\Shared\\Components\\Blog\\Default.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Components\\Blog\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Views\\Shared\\Components\\Actor\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Actor\\Default.cshtml",
+              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Views\\Shared\\Components\\Actor\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Actor\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T09:26:12.733Z"
+              "WhenOpened": "2024-12-22T03:11:29.467Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Views\\Actor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actor\\Index.cshtml",
+              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Views\\Actor\\Index.cshtml",
+              "RelativeToolTip": "Views\\Actor\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T03:06:51.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActorController.cs",
+              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Controllers\\ActorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ActorController.cs",
+              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Controllers\\ActorController.cs",
+              "RelativeToolTip": "Controllers\\ActorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:08:50.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LayoutActor.cshtml",
+              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Views\\Shared\\_LayoutActor.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutActor.cshtml",
+              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Views\\Shared\\_LayoutActor.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutActor.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T03:04:38.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADQCAAAAAAAAAAAYwEECAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T02:35:16.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "blogdetail.html",
               "DocumentMoniker": "D:\\Download\\Film-Review-Movie-Database\\Film-Review-Movie-Database\\blogdetail.html",
               "RelativeDocumentMoniker": "..\\..\\Download\\Film-Review-Movie-Database\\Film-Review-Movie-Database\\blogdetail.html",
@@ -74,43 +165,6 @@
               "ViewState": "AgIAAO8AAAAAAAAAAAAAAJYBAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-12-19T09:22:25.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Views\\Blog\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Blog\\Details.cshtml",
-              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Views\\Blog\\Details.cshtml",
-              "RelativeToolTip": "Views\\Blog\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T08:45:28.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BlogController.cs",
-              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Controllers\\BlogController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BlogController.cs",
-              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Controllers\\BlogController.cs",
-              "RelativeToolTip": "Controllers\\BlogController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T08:42:08.018Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MovieController.cs",
-              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Controllers\\MovieController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
-              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Controllers\\MovieController.cs",
-              "RelativeToolTip": "Controllers\\MovieController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T14:45:59.084Z"
             }
           ]
         }

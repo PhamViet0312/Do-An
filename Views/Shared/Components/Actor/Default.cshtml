@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Do_An.Models.TbActor>
+
+<div class="celebrities">
+    <h4 class="sb-title">Spotlight Celebrities</h4>
+    @foreach (var item in Model)
+    {
+        string sUrl = $"/actor/{item.Alias}-{item.ActorId}.html";
+        <div class="celeb-item">
+            <a href="@sUrl"><img src="~/files/actor/@item.ProfileImage" alt="" width="70" height="70"></a>
+            <div class="celeb-author">
+                <h6><a href="#">@item.Name</a></h6>
+                <span>Actor</span>
+            </div>
+        </div>
+    }
+    <a href="#" class="btn">See all celebrities<i class="ion-ios-arrow-right"></i></a>
+</div>
+    

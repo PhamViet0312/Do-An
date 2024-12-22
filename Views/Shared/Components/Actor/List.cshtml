@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Do_An.Models.TbActor>
+<div class="row">
+	
+	<div class="col-md-12">
+		@foreach(var item in Model) {
+		<div class="ceb-item-style-2">
+			<img src="~/files/actor/@item.ProfileImage" alt="">
+			<div class="ceb-infor">
+				<h2><a href="celebritysingle.html">@item.Name</a></h2>
+				<span>actor, @item.Nationality</span>
+				<p>@item.Description </p>
+			</div>
+		</div>
+		}
+	</div>
+
+</div>

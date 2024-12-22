@@ -10092,6 +10092,10 @@ wwwroot\css\fonts\slick-4.html
 wwwroot\css\fonts\slickd41d.html
 wwwroot\css\plugins.css
 wwwroot\css\style.css
+wwwroot\files\actor\ava1.jpg
+wwwroot\files\actor\ava2.jpg
+wwwroot\files\actor\ava3.jpg
+wwwroot\files\actor\ava4.jpg
 wwwroot\files\avatar\ava1.jpg
 wwwroot\files\avatar\ava2.jpg
 wwwroot\files\avatar\ava3.jpg

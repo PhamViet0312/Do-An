@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7 no-js" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8 no-js" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en" class="no-js">
+
+<!-- celebritylist11:56-->
+<head>
+	<!-- Basic need -->
+	<title>Open Pediatrics</title>
+	<meta charset="UTF-8">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta name="author" content="">
+	<link rel="profile" href="#">
+
+	<!--Google Font-->
+	<link rel="stylesheet" href='http://fonts.googleapis.com/css?family=Dosis:400,700,500|Nunito:300,400,600' />
+	<!-- Mobile specific meta -->
+	<meta name=viewport content="width=device-width, initial-scale=1">
+	<meta name="format-detection" content="telephone-no">
+
+	<!-- CSS files -->
+	<link rel="stylesheet" href="~/css/plugins.css">
+	<link rel="stylesheet" href="~/css/style.css">
+
+</head>
+<body>
+<!--preloading-->
+<div id="preloader">
+	<img class="logo" src="~/images/logo1.png" alt="" width="119" height="58">
+	<div id="status">
+		<span></span>
+		<span></span>
+	</div>
+</div>
+<!--end of preloading-->
+<!--login form popup-->
+	@await Html.PartialAsync("Login")
+	<!--end of login form popup-->
+<!--signup form popup-->
+	@await Html.PartialAsync("Signup")
+	<!--end of signup form popup-->
+<!-- BEGIN | Header -->
+	@await Html.PartialAsync("Header")
+	<!-- END | Header -->
+
+<div class="hero common-hero">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="hero-ct">
+					<h1>celebrity listing - list</h1>
+					<ul class="breadcumb">
+						<li class="active"><a href="#">Home</a></li>
+						<li> <span class="ion-ios-arrow-right"></span> celebrity listing</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- celebrity list section-->
+@RenderBody()
+<!-- end of celebrity list section-->
+
+<!-- footer section-->
+	@await Html.PartialAsync("Footer")
+<!-- end of footer section-->
+	<script src="~/js/jquery.js"></script>
+	<script src="~/js/plugins.js"></script>
+	<script src="~/js/plugins2.js"></script>
+	<script src="~/js/custom.js"></script>
+</body>
+
+<!-- celebritylist12:04-->
+</html>
