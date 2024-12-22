@@ -1,9 +1,10 @@
 ﻿@model IEnumerable<Do_An.Models.TbMenu>
 
-	<ul class="nav navbar-nav flex-child-menu menu-left">
-	@foreach (var item in Model)
-	{
-		<li class="dropdown first">
-			<a class="/@item.Alias">@item.Title</a></li>
-	}
-	</ul>
+<ul class="nav navbar-nav flex-child-menu menu-left">
+@foreach (var item in Model)
+{
+    <li class="dropdown first">
+        <a href="@item.Url">@item.Title</a>
+    </li>
+}
+</ul>
