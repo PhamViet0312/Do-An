@@ -37,6 +37,7 @@ public partial class MovieContext : DbContext
 
     public virtual DbSet<TbRole> TbRoles { get; set; }
 
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<TbAccount>(entity =>
@@ -70,6 +71,10 @@ public partial class MovieContext : DbContext
 
             entity.Property(e => e.CreatedDate).HasColumnType("datetime");
             entity.Property(e => e.ModifiedDate).HasColumnType("datetime");
+
+            entity.HasOne(d => d.CategoryMovie).WithMany(p => p.TbBlogs)
+                .HasForeignKey(d => d.CategoryMovieId)
+                .HasConstraintName("FK_tb_Blog_tb_CategoryMovie");
         });
 
         modelBuilder.Entity<TbBlogComment>(entity =>
@@ -103,9 +108,6 @@ public partial class MovieContext : DbContext
 
             entity.Property(e => e.CreatedDate).HasColumnType("datetime");
             entity.Property(e => e.ModifiedDate).HasColumnType("datetime");
-            entity.Property(e => e.Url)
-                .HasMaxLength(10)
-                .IsFixedLength();
         });
 
         modelBuilder.Entity<TbMovie>(entity =>

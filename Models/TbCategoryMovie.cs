@@ -31,5 +31,7 @@ public partial class TbCategoryMovie
 
     public bool? IsActive { get; set; }
 
+    public virtual ICollection<TbBlog> TbBlogs { get; set; } = new List<TbBlog>();
+
     public virtual ICollection<TbMovie> TbMovies { get; set; } = new List<TbMovie>();
 }

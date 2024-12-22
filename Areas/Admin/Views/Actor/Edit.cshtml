@@ -1,0 +1,126 @@
+﻿@model Do_An.Models.TbActor
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1>Sửa thông tin diễn viên</h1>
+                </div>
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item active">General Form</li>
+                    </ol>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <!-- left column -->
+                <div class="col-md-12">
+                    <!-- general form elements -->
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <h3 class="card-title">Sửa thông tin diễn viên</h3>
+                        </div>
+                        <!-- /.card-header -->
+                        <!-- form start -->
+                        <form asp-action="Edit">
+                            <input type="hidden" asp-for="ActorId" />
+                            <div class="card-body">
+                                <div class="form-group">
+                                    <label asp-for="Name">Tên diễn viên</label>
+                                    <input asp-for="Name" class="form-control">
+                                    <span asp-validation-for="Name" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="Alias">Alias</label>
+                                    <input asp-for="Alias" class="form-control" readonly>
+                                    <span asp-validation-for="Alias" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="DateOfBirth">Ngày sinh</label>
+                                    <input asp-for="DateOfBirth" class="form-control" type="date">
+                                    <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="Nationality">Quốc gia</label>
+                                    <input asp-for="Nationality" class="form-control">
+                                    <span asp-validation-for="Nationality" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="Description">Mô tả</label>
+                                    <input asp-for="Description" class="form-control">
+                                    <span asp-validation-for="Description" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="Biography">Chi tiết</label>
+                                    <textarea asp-for="Biography" class="form-control"></textarea>
+                                    <span asp-validation-for="Biography" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="ProfileImage" class="control-label">Ảnh</label>
+                                    <div class="input-group mb-3">
+                                        <div class="input group-preprend">
+                                            <button type="button" class="btn btn-success btn-round-pill" onclick="openDialog()">Choose a picture</button>
+                                        </div>
+                                        <input type="text" class="form-control" id="file_input" asp-for="ProfileImage" aria-describedby="button-addon2">
+                                    </div>
+                                    <span asp-validation-for="ProfileImage" class="text-danger"></span>
+                                </div>
+
+
+                                <div class="form-group form-check">
+                                    <label class="form-check-label">
+                                        <input type="checkbox" class="form-check-input" asp-for="IsActive" /> Hiển thị
+                                    </label>
+                                </div>
+
+                                <div class="d-flex mt-3">
+                                    <div class="form-group mr-2">
+                                        <button type="submit" class="btn btn-primary rounded-pill">Sửa</button>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <a class="btn btn-danger rounded-pill mr-3" asp-action="Index" asp-controller="Actor">Quay Lại</a>
+                                    </div>
+
+                                </div>
+
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+
+
+@{
+    var summernote = new Do_An.Areas.Admin.Models.SummerNote("#Biography");
+    <partial name="_SummerNote" model="summernote" />
+}
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

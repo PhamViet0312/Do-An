@@ -6,6 +6,7 @@ namespace Do_An.Models;
 public partial class TbActor
 {
     public int ActorId { get; set; }
+
     public string? Name { get; set; }
 
     public string? Alias { get; set; }
@@ -20,5 +21,5 @@ public partial class TbActor
 
     public string? ProfileImage { get; set; }
 
-    public bool? IsActive { get; set; }
+    public bool IsActive { get; set; }
 }

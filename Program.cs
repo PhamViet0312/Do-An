@@ -28,15 +28,12 @@ app.UseAuthorization();
 
 app.MapStaticAssets();
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}")
-    .WithStaticAssets();
 
 // admin
 app.MapControllerRoute(
-    name: "Areas",
+    name: "areas",
     pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
+
 
 // người dùng
 app.MapControllerRoute(
@@ -44,11 +41,11 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
 
-// người dùng
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Blog}/{action=Index}/{id?}")
-    .WithStaticAssets();
+//// người dùng
+//app.MapControllerRoute(
+//    name: "default",
+//    pattern: "{controller=Blog}/{action=Index}/{id?}")
+//    .WithStaticAssets();
 
 
 app.Run();

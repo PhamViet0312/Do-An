@@ -1,0 +1,106 @@
+﻿@model Do_An.Models.TbActor
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1>Chi tiết menu</h1>
+                </div>
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item active">General Form</li>
+                    </ol>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <!-- left column -->
+                <div class="col-md-12">
+                    <!-- general form elements -->
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <h3 class="card-title">Chi tiết diễn viên</h3>
+                        </div>
+                        <!-- /.card-header -->
+                        <!-- form start -->
+                        <form asp-action="Delete">
+                            <div class="card-body">
+                                <div class="form-group">
+                                    <label asp-for="Name">Tên diễn viên: : </label>
+                                    @Model?.Name
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="Alias">Alias: </label>
+                                    @Model?.Alias
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="DateOfBirth">Ngày sinh: </label>
+                                    @Model?.DateOfBirth?.ToString("dd/MM/yyyy")
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="DateOfBirth">Quốc gia: </label>
+                                    @Model?.Nationality
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="DateOfBirth">Mô tả: </label>
+                                    @Html.Raw(Model?.Description)
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="DateOfBirth">Chi tiết: </label>
+                                    @Html.Raw(Model?.Biography)
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="ProfileImage">Ảnh: </label>
+                                    <div class="mt-2">
+                                        <img src="~/files/actor/@Model?.ProfileImage" alt="Ảnh diễn viên" class="img-fluid" style="max-width: 100px; height: auto;" />
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="IsActive">Hiển Thị:</label>
+                                    @if (Model?.IsActive == true)
+                                    {
+                                        <i class="fas fa-check-circle text-success"></i> <span>Hiển thị</span>
+                                    }
+                                    else
+                                    {
+                                        <i class="fas fa-times-circle text-danger"></i> <span>Không hiển thị</span>
+                                    }
+                                </div>
+
+                                <div class="d-flex mt-3">
+                                    <div class="form-group mr-2">
+                                        <a class="btn btn-primary rounded-pill mr-3" asp-action="Edit" asp-route-id="@Model?.ActorId">Chỉnh sửa</a>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <a type="type" class="btn btn-danger rounded-pill mr-3" asp-action="Index">Quay Lại</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
