@@ -3,10 +3,11 @@
 	
 	<div class="col-md-12">
 		@foreach(var item in Model) {
+		string sUrl = $"/actor/{item.Alias}-{item.ActorId}.html";
 		<div class="ceb-item-style-2">
 			<img src="~/files/actor/@item.ProfileImage" alt="">
 			<div class="ceb-infor">
-				<h2><a href="celebritysingle.html">@item.Name</a></h2>
+				<h2><a href="@sUrl">@item.Name</a></h2>
 				<span>actor, @item.Nationality</span>
 				<p>@item.Description </p>
 			</div>

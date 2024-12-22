@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Do_An.Models.TbMovie>
+
+
+@foreach(var item in Model) {
+	string sUrl = $"/movie/{item.Alias}-{item.MovieId}.html";
+	<div class="movie-item-style-2">
+		<img src="~/files//item/@item.Image" alt="">
+		<div class="mv-item-infor">
+			<h6><a href="@sUrl">oblivion <span>(@item.Since)</span></a></h6>
+			<p class="rate"><i class="ion-android-star"></i><span>@item.Rating</span> /10</p>
+			<p class="describe">@item.Description</p>
+			<p class="run-time"> Run Time: 2h21’    .     <span>MMPA: PG-13 </span>    .     <span>Release: @item.ReleaseDate?.ToString("yyyy")</span></p>
+			<p>Director: <a href="#">Joss Whedon</a></p>
+			<p>Stars: <a href="#">Robert Downey Jr.,</a> <a href="#">Chris Evans,</a> <a href="#">  Chris Hemsworth</a></p>
+		</div>
+	</div>
+}

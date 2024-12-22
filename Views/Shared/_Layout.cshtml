@@ -47,6 +47,7 @@
 	<!--end of signup form popup-->
 	<!-- BEGIN | Header -->
 	@await Html.PartialAsync("Header")
+	@RenderSection("HeroSection", required: false)
 	<!-- END | Header -->
 	@RenderBody()
 	<!--end of latest new v1 section-->

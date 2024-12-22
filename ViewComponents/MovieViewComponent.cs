@@ -12,12 +12,11 @@ namespace Do_An.ViewComponents
             _context = context;
         }
 
-        public async Task<IViewComponentResult> InvokeAsync()
+        public async Task<IViewComponentResult> InvokeAsync(string viewName = "Default")
         {
             var items = _context.TbMovies
                 .Where(m => m.IsActive == true).ToList();
-
-            return await Task.FromResult(View(items));
+            return await Task.FromResult(View(viewName, items));
         }
     }
 }

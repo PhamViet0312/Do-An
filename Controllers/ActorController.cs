@@ -25,7 +25,7 @@ namespace Do_An.Controllers
             {
                 return NotFound();
             }
-            var actors = await _context.TbBlogs.FirstOrDefaultAsync(m => m.BlogId == id);
+            var actors = await _context.TbActors.FirstOrDefaultAsync(m => m.ActorId == id);
 
             if (actors == null)
             {
