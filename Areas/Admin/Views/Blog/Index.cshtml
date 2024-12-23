@@ -74,7 +74,7 @@
                                             <td>@(i++)</td>
                                             <td>@item.Title</td>
                                             <td>@item.Alias</td>
-                                            <td>@item.CategoryMovieId</td>
+                                            <td>@item.CategoryMovie?.Title</td>
                                             <td><img src="~/files/blog/@item.Image" width="50" height="50" /></td>
                                             <td>
                                                 @if (item.IsActive == true)

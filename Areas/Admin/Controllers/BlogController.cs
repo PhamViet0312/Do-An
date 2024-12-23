@@ -24,7 +24,7 @@ namespace Do_An.Areas.Admin.Controllers
         public async Task<IActionResult> Index()
         {
             var movieContext = _context.TbBlogs.Include(t => t.CategoryMovie);
-            return View(await _context.TbBlogs.ToListAsync());
+            return View(await movieContext.ToListAsync());
         }
 
         // GET: Admin/TbBlogs/Details/5
@@ -57,7 +57,7 @@ namespace Do_An.Areas.Admin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("BlogId,Title,Alias,CategoryId,Description,Detail,Image,SeoTitle,SeoDescription,SeoKeywords,CreatedDate,CreatedBy,ModifiedDate,ModifiedBy,AccountId,IsActive")] TbBlog tbBlog)
+        public async Task<IActionResult> Create([Bind("BlogId,Title,Alias,CategoryMovieId,Description,Detail,Image,SeoTitle,SeoDescription,SeoKeywords,CreatedDate,CreatedBy,ModifiedDate,ModifiedBy,AccountId,IsActive")] TbBlog tbBlog)
         {
             if (ModelState.IsValid)
             {
@@ -83,7 +83,7 @@ namespace Do_An.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-            //ViewData["CategoryMovieId"] = new SelectList(_context.TbCategoryMovies, "TbCategoryMovies", "TbCategoryMovies", tbBlog.CategoryMovieId);
+            ViewData["CategoryMovieId"] = new SelectList(_context.TbCategoryMovies, "CategoryMovieId", "CategoryMovieId", tbBlog.CategoryMovieId);
             return View(tbBlog);
         }
 
@@ -92,7 +92,7 @@ namespace Do_An.Areas.Admin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("BlogId,Title,Alias,CategoryId,Description,Detail,Image,SeoTitle,SeoDescription,SeoKeywords,CreatedDate,CreatedBy,ModifiedDate,ModifiedBy,AccountId,IsActive")] TbBlog tbBlog)
+        public async Task<IActionResult> Edit(int id, [Bind("BlogId,Title,Alias,CategoryMovieId,Description,Detail,Image,SeoTitle,SeoDescription,SeoKeywords,CreatedDate,CreatedBy,ModifiedDate,ModifiedBy,AccountId,IsActive")] TbBlog tbBlog)
         {
             if (id != tbBlog.BlogId)
             {
@@ -120,7 +120,7 @@ namespace Do_An.Areas.Admin.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            //ViewData["CategoryMovieId"] = new SelectList(_context.TbCategoryMovies, "TbCategoryMovies", "TbCategoryMovies", tbBlog.CategoryMovieId);
+            ViewData["CategoryMovieId"] = new SelectList(_context.TbCategoryMovies, "CategoryMovieId", "CategoryMovieId", tbBlog.CategoryMovieId);
             return View(tbBlog);
         }
 
