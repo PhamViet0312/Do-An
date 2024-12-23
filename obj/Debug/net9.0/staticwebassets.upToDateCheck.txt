@@ -10104,6 +10104,7 @@ wwwroot\files\actor\ceblist5.jpg
 wwwroot\files\actor\ceblist6.jpg
 wwwroot\files\actor\ceblist7.jpg
 wwwroot\files\actor\ceblist8.jpg
+wwwroot\files\actor\user2-160x160.jpg
 wwwroot\files\avatar\ava1.jpg
 wwwroot\files\avatar\ava2.jpg
 wwwroot\files\avatar\ava3.jpg

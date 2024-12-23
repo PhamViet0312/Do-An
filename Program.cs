@@ -26,7 +26,7 @@ builder.Services.AddAuthentication("AdminAuth").AddCookie("AdminAuth", options =
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession(options =>
 {
-    options.IdleTimeout = TimeSpan.FromMinutes(10); // Thời gian hết hạn cookie
+    options.IdleTimeout = TimeSpan.FromMinutes(1); // Thời gian hết hạn cookie
     options.Cookie.HttpOnly = true; 
     options.Cookie.IsEssential = true; 
 });

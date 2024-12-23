@@ -12,8 +12,8 @@
 				<div class="col-md-12">
 					<!-- <h1> movie listing - list</h1>
 					<ul class="breadcumb">
-						<li class="active"><a href="#">Home</a></li>
-						<li> <span class="ion-ios-arrow-right"></span> movie listing</li>
+					<li class="active"><a href="#">Home</a></li>
+					<li> <span class="ion-ios-arrow-right"></span> movie listing</li>
 					</ul> -->
 				</div>
 			</div>
@@ -66,8 +66,8 @@
 							<p>Rate This Movie:  </p>
 							@for (var i = 0; i < Model.Rating; i++)
 							{
-                                <i class="ion-ios-star"></i>
-                            })
+								<i class="ion-ios-star"></i>
+							})
 
 						</div>
 					</div>
@@ -84,7 +84,7 @@
 								<div id="overview" class="tab active">
 									<div class="row">
 										<div class="col-md-8 col-sm-12 col-xs-12">
-                                            <p>@Model.Description</p>
+											<p>@Model.Description</p>
 											<div class="title-hd-sm">
 												<h4>Videos & Photos</h4>
 												<a href="#" class="time">All 5 Videos & 245 Photos <i class="ion-ios-arrow-right"></i></a>
@@ -168,22 +168,20 @@
 											<!-- movie user review -->
 											<div class="mv-user-review-item">
 												@foreach(var item in movieReview) {
-												<h3>@item.Description</h3>
-												<div class="no-star">
-                                                        @for (var i = 0; i < item.Rating; i++)
-                                                        {
-                                                            <i class="ion-android-star"></i>
-                                                        }
-												</div>
-												<p class="time">
-													@item.CreatedDate?.ToString("dd/MM/yyyy") by <a href="#"> @item.Name</a>
-												</p>
-												<p>@item.Detail</p>
-											}
+													<h3>@item.Description</h3>
+													<div class="no-star">
+														@for (var i = 0; i < item.Rating; i++)
+														{
+															<i class="ion-android-star"></i>
+														}
+													</div>
+													<p class="time">
+														@item.CreatedDate?.ToString("dd/MM/yyyy") by <a href="#"> @item.Name</a>
+													</p>
+													<p>@item.Detail</p>
+												}
 											</div>
-												
 										</div>
-												
 										<div class="col-md-4 col-xs-12 col-sm-12">
 											<div class="sb-it">
 												<h6>Director: </h6>
