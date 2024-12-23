@@ -61,6 +61,7 @@ namespace Do_An.Areas.Admin.Controllers
         {
             if (ModelState.IsValid)
             {
+                tbMovie.Alias = Do_An.Utilities.Function.TittleGenerationAlias(tbMovie.Title);
                 _context.Add(tbMovie);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -102,6 +103,7 @@ namespace Do_An.Areas.Admin.Controllers
             {
                 try
                 {
+                    tbMovie.Alias = Do_An.Utilities.Function.TittleGenerationAlias(tbMovie.Title);
                     _context.Update(tbMovie);
                     await _context.SaveChangesAsync();
                 }
