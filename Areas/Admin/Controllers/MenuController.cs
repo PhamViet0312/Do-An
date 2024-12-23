@@ -6,10 +6,12 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Do_An.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Do_An.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(AuthenticationSchemes = "AdminAuth")]
     public class MenuController : Controller
     {
         private readonly MovieContext _context;

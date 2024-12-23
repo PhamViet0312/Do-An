@@ -7,10 +7,12 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Do_An.Models;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Do_An.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(AuthenticationSchemes = "AdminAuth")]
     public class BlogController : Controller
     {
         private readonly MovieContext _context;

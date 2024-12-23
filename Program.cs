@@ -11,6 +11,26 @@ builder.Services.AddDbContext<MovieContext>(options =>
 // Add services to the container.
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
 
+
+// xác thực admin
+builder.Services.AddAuthentication("AdminAuth").AddCookie("AdminAuth", options =>
+{
+    options.ExpireTimeSpan = TimeSpan.FromMinutes(1);
+    options.LoginPath = "/Admin/dang-nhap";
+    options.AccessDeniedPath = "/AccessDenied";
+    options.ReturnUrlParameter = "returnURL";
+});
+
+
+// cấu hình cookie để lưu trữ phiên đăng nhập
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(10); // Thời gian hết hạn cookie
+    options.Cookie.HttpOnly = true; 
+    options.Cookie.IsEssential = true; 
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -24,7 +44,10 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseRouting();
 
+app.UseSession();
+app.UseAuthentication();
 app.UseAuthorization();
+
 
 app.MapStaticAssets();
 
@@ -34,6 +57,12 @@ app.MapControllerRoute(
     name: "areas",
     pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
 
+// route cho login admin
+app.MapControllerRoute(
+    name: "AdminLogin",
+    pattern: "Admin/dang-nhap",
+    defaults: new { controller = "Login", action = "Index", area = "Admin" });
+
 
 // người dùng
 app.MapControllerRoute(
@@ -41,11 +70,6 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
 
-//// người dùng
-//app.MapControllerRoute(
-//    name: "default",
-//    pattern: "{controller=Blog}/{action=Index}/{id?}")
-//    .WithStaticAssets();
 
 
 app.Run();

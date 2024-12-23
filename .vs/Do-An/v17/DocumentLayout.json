@@ -1,36 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Nh\u00F3m 16\\Do-An\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\areas\\admin\\views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:areas\\admin\\views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\areas\\admin\\views\\blog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:areas\\admin\\views\\blog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\areas\\admin\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:areas\\admin\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\areas\\admin\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:areas\\admin\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\areas\\admin\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:areas\\admin\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\areas\\admin\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:areas\\admin\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,97 +30,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Views\\Blog\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Blog\\Delete.cshtml",
-              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Views\\Blog\\Delete.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Blog\\Delete.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-23T12:49:09.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Views\\Movie\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Movie\\Delete.cshtml",
-              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Views\\Movie\\Delete.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Movie\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-23T12:48:34.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Views\\Movie\\Details.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Movie\\Details.cshtml",
-              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Views\\Movie\\Details.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Movie\\Details.cshtml",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAowEcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-23T12:38:06.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Views\\Movie\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Movie\\Create.cshtml",
-              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Views\\Movie\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Movie\\Create.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-23T12:35:57.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Views\\Movie\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Movie\\Edit.cshtml",
-              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Views\\Movie\\Edit.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Movie\\Edit.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-23T12:34:37.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MovieController.cs",
-              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Controllers\\MovieController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\MovieController.cs",
-              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Controllers\\MovieController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAgwH8AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T12:16:35.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BlogController.cs",
-              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Controllers\\BlogController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\BlogController.cs",
-              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Controllers\\BlogController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\BlogController.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAAAH8AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T12:19:27.323Z",
-              "EditorCaption": ""
             }
           ]
         }

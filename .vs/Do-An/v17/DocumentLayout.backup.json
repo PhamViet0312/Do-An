@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Nh\u00F3m 16\\Do-An\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\areas\\admin\\views\\shared\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:areas\\admin\\views\\shared\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\areas\\admin\\components\\adminmenucomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:areas\\admin\\components\\adminmenucomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\areas\\admin\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:areas\\admin\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\areas\\admin\\views\\shared\\components\\adminmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:areas\\admin\\views\\shared\\components\\adminmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|d:\\nh\u00F3m 16\\do-an\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B47D877-94EF-4ED8-A894-DFAD5D491FEE}|Do-An.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,40 +50,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Sidebar.cshtml",
-              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Views\\Shared\\Sidebar.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\Sidebar.cshtml",
-              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Views\\Shared\\Sidebar.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\Sidebar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABkAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "_loginLayout.cshtml",
+              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Views\\Shared\\_loginLayout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_loginLayout.cshtml",
+              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Views\\Shared\\_loginLayout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_loginLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-23T02:43:30.965Z",
+              "WhenOpened": "2024-12-23T14:43:34.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Views\\Shared\\Components\\AdminMenu\\Default.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\Components\\AdminMenu\\Default.cshtml",
-              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Views\\Shared\\Components\\AdminMenu\\Default.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\Components\\AdminMenu\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-23T02:42:58.209Z"
+              "WhenOpened": "2024-12-23T14:39:31.742Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminMenuComponent.cs",
-              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Components\\AdminMenuComponent.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Components\\AdminMenuComponent.cs",
-              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Components\\AdminMenuComponent.cs",
-              "RelativeToolTip": "Areas\\Admin\\Components\\AdminMenuComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T02:41:41.409Z"
+              "WhenOpened": "2024-12-23T14:19:10.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Nh\u00F3m 16\\Do-An\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:15:39.991Z",
+              "EditorCaption": ""
             }
           ]
         }
