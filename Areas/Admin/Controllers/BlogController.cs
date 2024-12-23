@@ -48,7 +48,7 @@ namespace Do_An.Areas.Admin.Controllers
         // GET: Admin/TbBlogs/Create
         public IActionResult Create()
         {
-            ViewData["CategoryMovieId"] = new SelectList(_context.TbCategoryMovies, "CategoryId", "Title");
+            ViewData["CategoryMovieId"] = new SelectList(_context.TbCategoryMovies, "CategoryMovieId", "Title");
             return View();
         }
 

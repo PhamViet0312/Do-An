@@ -1,0 +1,11 @@
+﻿@model IEnumerable<Do_An.Models.TblAdminMenu>
+
+@foreach (var item in Model.Where(m => m.IsActive == true))
+{
+    <li class="nav-item">
+        <a href="@Url.Action(item.ActionName, item.ControllerName, new { area = item.Areaname })" class="nav-link">
+            <i class="@item.Icon"></i>
+            <p> @item.ItemName</p>
+        </a>
+    </li>
+}

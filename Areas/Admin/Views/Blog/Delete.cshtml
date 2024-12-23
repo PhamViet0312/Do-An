@@ -1,112 +1,96 @@
-﻿@* @model Do_An.Models.TbBlog *@
+﻿@model Do_An.Models.TbBlog
 
-@* @{ *@
-@*     ViewData["Title"] = "Delete"; *@
-@*     Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml"; *@
-@* } *@
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_layoutAdmin.cshtml";
+}
 
-@* <h1>Delete</h1> *@
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1>Xóa bài viết</h1>
+                </div>
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item active">General Form</li>
+                    </ol>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
 
-@* <h3>Are you sure you want to delete this?</h3> *@
-@* <div> *@
-@*     <h4>TbBlog</h4> *@
-@*     <hr /> *@
-@*     <dl class="row"> *@
-@*         <dt class = "col-sm-2"> *@
-@*             @Html.DisplayNameFor(model => model.Title) *@
-@*         </dt> *@
-@*         <dd class = "col-sm-10"> *@
-@*             @Html.DisplayFor(model => model.Title) *@
-@*         </dd> *@
-@*         <dt class = "col-sm-2"> *@
-@*             @Html.DisplayNameFor(model => model.Alias) *@
-@*         </dt> *@
-@*         <dd class = "col-sm-10"> *@
-@*             @Html.DisplayFor(model => model.Alias) *@
-@*         </dd> *@
-@*         <dt class = "col-sm-2"> *@
-@*             @Html.DisplayNameFor(model => model.CategoryId) *@
-@*         </dt> *@
-@*         <dd class = "col-sm-10"> *@
-@*             @Html.DisplayFor(model => model.CategoryId) *@
-@*         </dd> *@
-@*         <dt class = "col-sm-2"> *@
-@*             @Html.DisplayNameFor(model => model.Description) *@
-@*         </dt> *@
-@*         <dd class = "col-sm-10"> *@
-@*             @Html.DisplayFor(model => model.Description) *@
-@*         </dd> *@
-@*         <dt class = "col-sm-2"> *@
-@*             @Html.DisplayNameFor(model => model.Detail) *@
-@*         </dt> *@
-@*         <dd class = "col-sm-10"> *@
-@*             @Html.DisplayFor(model => model.Detail) *@
-@*         </dd> *@
-@*         <dt class = "col-sm-2"> *@
-@*             @Html.DisplayNameFor(model => model.Image) *@
-@*         </dt> *@
-@*         <dd class = "col-sm-10"> *@
-@*             @Html.DisplayFor(model => model.Image) *@
-@*         </dd> *@
-@*         <dt class = "col-sm-2"> *@
-@*             @Html.DisplayNameFor(model => model.SeoTitle) *@
-@*         </dt> *@
-@*         <dd class = "col-sm-10"> *@
-@*             @Html.DisplayFor(model => model.SeoTitle) *@
-@*         </dd> *@
-@*         <dt class = "col-sm-2"> *@
-@*             @Html.DisplayNameFor(model => model.SeoDescription) *@
-@*         </dt> *@
-@*         <dd class = "col-sm-10"> *@
-@*             @Html.DisplayFor(model => model.SeoDescription) *@
-@*         </dd> *@
-@*         <dt class = "col-sm-2"> *@
-@*             @Html.DisplayNameFor(model => model.SeoKeywords) *@
-@*         </dt> *@
-@*         <dd class = "col-sm-10"> *@
-@*             @Html.DisplayFor(model => model.SeoKeywords) *@
-@*         </dd> *@
-@*         <dt class = "col-sm-2"> *@
-@*             @Html.DisplayNameFor(model => model.CreatedDate) *@
-@*         </dt> *@
-@*         <dd class = "col-sm-10"> *@
-@*             @Html.DisplayFor(model => model.CreatedDate) *@
-@*         </dd> *@
-@*         <dt class = "col-sm-2"> *@
-@*             @Html.DisplayNameFor(model => model.CreatedBy) *@
-@*         </dt> *@
-@*         <dd class = "col-sm-10"> *@
-@*             @Html.DisplayFor(model => model.CreatedBy) *@
-@*         </dd> *@
-@*         <dt class = "col-sm-2"> *@
-@*             @Html.DisplayNameFor(model => model.ModifiedDate) *@
-@*         </dt> *@
-@*         <dd class = "col-sm-10"> *@
-@*             @Html.DisplayFor(model => model.ModifiedDate) *@
-@*         </dd> *@
-@*         <dt class = "col-sm-2"> *@
-@*             @Html.DisplayNameFor(model => model.ModifiedBy) *@
-@*         </dt> *@
-@*         <dd class = "col-sm-10"> *@
-@*             @Html.DisplayFor(model => model.ModifiedBy) *@
-@*         </dd> *@
-@*         <dt class = "col-sm-2"> *@
-@*             @Html.DisplayNameFor(model => model.AccountId) *@
-@*         </dt> *@
-@*         <dd class = "col-sm-10"> *@
-@*             @Html.DisplayFor(model => model.AccountId) *@
-@*         </dd> *@
-@*         <dt class = "col-sm-2"> *@
-@*             @Html.DisplayNameFor(model => model.IsActive) *@
-@*         </dt> *@
-@*         <dd class = "col-sm-10"> *@
-@*             @Html.DisplayFor(model => model.IsActive) *@
-@*         </dd> *@
-@*     </dl> *@
-    
-@*     <form asp-action="Delete"> *@
-@*         <input type="hidden" asp-for="BlogId" /> *@
-@*         <input type="submit" value="Delete" class="btn btn-danger" /> | *@
-@*         <a asp-action="Index">Back to List</a> *@
-@*     </form> *@
-@* </div> *@
+    <!-- Main content -->
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <!-- left column -->
+                <div class="col-md-12">
+                    <!-- general form elements -->
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <h3 class="card-title">Bạn chắc chắn muốn xóa bài viết này ?</h3>
+                        </div>
+                        <!-- /.card-header -->
+                        <!-- form start -->
+                        <form asp-action="Delete">
+                            <div class="card-body">
+                                <div class="form-group">
+                                    <label asp-for="Title">Tiêu đề: : </label>
+                                    @Model?.Title
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="Alias">Alias: </label>
+                                    @Model?.Alias
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="Description">Mô tả: </label>
+                                    @Html.Raw(Model?.Description)
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="Detail">Chi tiết: </label>
+                                    @Html.Raw(Model?.Detail)
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="Image">Ảnh: </label>
+                                    <div class="mt-2">
+                                        <img src="~/files/blog/@Model?.Image" alt="Ảnh bài viết" class="img-fluid" style="max-width: 100px; height: auto;" />
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="IsActive">Hiển Thị:</label>
+                                    @if (Model?.IsActive == true)
+                                    {
+                                        <i class="fas fa-check-circle text-success"></i> <span>Hiển thị</span>
+                                    }
+                                    else
+                                    {
+                                        <i class="fas fa-times-circle text-danger"></i> <span>Không hiển thị</span>
+                                    }
+                                </div>
+
+                                <div class="d-flex mt-3">
+                                    <div class="form-group mr-2">
+                                        <button type="submit" class="btn btn-primary rounded-pill">Xóa</button>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <a type="type" class="btn btn-danger rounded-pill mr-3" asp-action="Index">Quay Lại</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

@@ -37,6 +37,8 @@ public partial class MovieContext : DbContext
 
     public virtual DbSet<TbRole> TbRoles { get; set; }
 
+    public virtual DbSet<TblAdminMenu> TblAdminMenus { get; set; }
+
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -170,6 +172,15 @@ public partial class MovieContext : DbContext
 
             entity.Property(e => e.Description).HasMaxLength(50);
             entity.Property(e => e.RoleName).HasMaxLength(50);
+        });
+
+        modelBuilder.Entity<TblAdminMenu>(entity =>
+        {
+            entity.HasKey(e => e.AdminMenuId);
+
+            entity.ToTable("tblAdminMenu");
+
+            entity.Property(e => e.AdminMenuId).HasColumnName("AdminMenuID");
         });
 
         OnModelCreatingPartial(modelBuilder);
